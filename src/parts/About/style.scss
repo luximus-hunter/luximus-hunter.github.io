@@ -1,0 +1,21 @@
+@import '../../globals.scss';
+
+#about {
+  font-family: 'Raleway', sans-serif;
+  background-color: $primary;
+  margin: 0 $spacing;
+  margin-bottom: $spacing;
+  padding: $spacing 10%;
+  border-radius: $border;
+  text-align: center;
+  font-size: 20px;
+  color: $primary-text;
+
+  h1 {
+    font-size: 40px;
+    margin-bottom: 0;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+}

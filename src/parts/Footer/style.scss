@@ -1,0 +1,28 @@
+@import '../../globals.scss';
+
+footer {
+  background-color: $secondary;
+  color: $secondary-text;
+  text-align: center;
+  padding: $spacing;
+
+  div {
+    display: flex;
+    justify-content: center;
+  }
+
+  a {
+    display: block;
+    color: $secondary-text;
+    margin-right: $spacing;
+    font-size: 50px;
+
+    &:last-child {
+      margin: 0;
+    }
+
+    &:hover {
+      color: $secondary-text;
+    }
+  }
+}
