@@ -1,0 +1,50 @@
+[
+  [
+    {
+      "lang": "en-GB",
+      "title": "Software Developer",
+      "location": "Deltion",
+      "logo": "https://i.ibb.co/dWKppby/deltion.jpg",
+      "content": ["Software developer study at Deltion"],
+      "date": {
+        "from": "September 1st 2018",
+        "till": "pressent"
+      }
+    },
+    {
+      "lang": "nl",
+      "title": "Software Ontwikkelaar",
+      "location": "Deltion",
+      "logo": "https://i.ibb.co/dWKppby/deltion.jpg",
+      "content": ["Software ontwikkeling opleiding op Deltion"],
+      "date": {
+        "from": "1 september 2018",
+        "till": "vandaag"
+      }
+    }
+  ],
+  [
+    {
+      "lang": "en-GB",
+      "title": "VWO - Highschool",
+      "location": "Van der Capellen",
+      "logo": "https://i.ibb.co/JrVs13N/capellen.png",
+      "content": ["Software developer study at Deltion"],
+      "date": {
+        "from": "September 1st 2014",
+        "till": "July 16th 2018"
+      }
+    },
+    {
+      "lang": "nl",
+      "title": "VWO - Middelbare school",
+      "location": "Van der Capellen",
+      "logo": "https://i.ibb.co/JrVs13N/capellen.png",
+      "content": ["Software ontwikkeling opleiding op Deltion"],
+      "date": {
+        "from": "1 september 2014",
+        "till": "16 juli 2018"
+      }
+    }
+  ]
+]

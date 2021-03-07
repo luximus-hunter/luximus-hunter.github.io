@@ -1,6 +1,7 @@
 import './App.scss';
 
 import About from './parts/About';
+import Education from './parts/Education';
 import Footer from './parts/Footer';
 import Header from './parts/Header';
 import Menu from './parts/Menu';
@@ -14,6 +15,7 @@ function App() {
       <Header />
       <Menu />
       <About />
+      <Education />
       <Footer />
     </div>
   );
