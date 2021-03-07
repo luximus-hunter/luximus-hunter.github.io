@@ -1,7 +1,7 @@
 import './style.scss';
 
 export default () => (
-  <footer id="links">
+  <footer id='links'>
     <div>
       <a href='https://github.com/luximus-hunter'>
         <i className='fab fa-github-square'></i>
