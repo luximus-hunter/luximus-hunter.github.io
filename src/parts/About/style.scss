@@ -5,17 +5,40 @@
   background-color: $primary;
   margin: 0 $spacing;
   margin-bottom: $spacing;
-  padding: $spacing 10%;
+  padding: $spacing * 3 20%;
   border-radius: $border;
   text-align: center;
   font-size: 20px;
   color: $primary-text;
 
+  div {
+    background-color: $primary-text;
+    color: $primary;
+    padding: $spacing * 3;
+    border-radius: $border / 1.5;
+  }
+
   h1 {
     font-size: 40px;
-    margin-bottom: 0;
+    margin: 0;
+  }
+
+  p {
+    margin: 0;
+    margin-bottom: $spacing * 2;
+
+    &:last-child {
+      margin: 0;
+    }
   }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 1000px) {
+  #about {
+    padding: $spacing;
+
+    div {
+      padding: $spacing;
+    }
+  }
 }

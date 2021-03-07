@@ -1,4 +1,4 @@
-import './style.scss'
+import './style.scss';
 
 export default () => (
   <header>
@@ -6,4 +6,4 @@ export default () => (
     <h1>Thomas Lipman</h1>
     <p>Software Developer</p>
   </header>
-)
+);

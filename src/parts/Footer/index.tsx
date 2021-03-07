@@ -1,4 +1,4 @@
-import './style.scss'
+import './style.scss';
 
 export default () => (
   <footer>
@@ -15,4 +15,4 @@ export default () => (
     </div>
     <div>2021 © Thomas Lipman</div>
   </footer>
-)
+);
